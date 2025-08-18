@@ -73,8 +73,7 @@ Other: Microservices, Clean Architecture (SOLID), Agile
 
 - 📧 [bt22cse027@iiitn.ac.in](mailto:bt22cse027@iiitn.ac.in)
 - 🐙 [GitHub](https://github.com/soni0021)
-- 🟩 [LeetCode](https://leetcode.com/u/vhNyqefY3L)
-- 📱 +91-9672853807
+- 🟩 [LeetCode](https://leetcode.com/u/vhNyqefY3L) 
 
 ***
 
