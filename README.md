@@ -63,13 +63,6 @@ Other: Microservices, REST APIs, Agile, OOP
 
 ***
 
-## 📈 GitHub Stats
-
-
-  
-  
-  
-
 
 ***
 
