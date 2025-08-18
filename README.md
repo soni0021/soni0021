@@ -7,76 +7,40 @@
 
 ## 👨💻 About Me
 
-I'm a passionate software engineer with real-world SDE internship experience and a proven track record in building, optimizing, and scaling production-grade web applications. I love solving challenging problems, automating workflows, and leveraging the latest in cloud and AI to deliver impact.
+I'm a passionate software engineer with hands-on SDE internship experience and a proven track record in building, optimizing, and scaling production-grade web applications. I love solving challenging problems, automating workflows, and leveraging modern cloud and AI to deliver impact.
 
 ***
 
 ## 🚀 Featured Projects
 
-### [MentorBox.ai (Live)](https://mentorbox.ai)
-*Backend Lead Intern, Cognitionis MedED Pvt Ltd*
-
+### [MentorBox.ai (Live)](https://mentorbox.ai)  
+*Backend Lead Intern, Cognitionis MedED Pvt Ltd*  
 Revolutionizing medical entrance prep & career counseling for thousands of students.  
-- Led backend development on NEET/JEE counseling, AI-powered college/rank predictors, and user-centric features.
-- Designed cloud-native, scalable architecture using TypeScript, Next.js, FastAPI, AWS.
-- Integrated robust scheduling and authentication via industry-standard third-party APIs.
-- Reduced API response times by 40% and helped drive AI-powered decision-making in Indian EdTech.
+- Led backend development: NEET/JEE counseling, AI-powered college/rank predictors, scalable microservices.
+- Cloud-native architecture: TypeScript, Next.js, FastAPI, AWS Lambda, S3, Elastic Beanstalk.
+- Robust scheduling and authentication with 3rd-party API integrations.
+- Achieved 40% faster API response times and empowered data-driven decisions.
+
+### [Mini CRM – AI-Powered Campaign Builder](https://github.com/soni0021/MINI_CRM)  
+Full-stack CRM tool for managing customers & campaigns, enhanced with AI.  
+- Modular backend (TypeScript/Express), RBAC, campaign automation, prompt playbooks.
+- Vue/Next.js frontend, CI/CD automation, comprehensive tests.
+
+### [Quick Pay – Secure Transaction Platform](https://github.com/soni0021/Quick-Pay)  
+A modern full-stack platform for secure payments and live analytics.  
+- React frontend, Node/Express backend, MongoDB.
+- User registration, transaction history, serverless AWS Lambda scaling.
+
+### [Peer-to-Peer Quiz & Video Communication](https://github.com/soni0021/p2p_quiz)  
+Multi-user real-time video calling app with quizzes, built using WebRTC, Socket.io, and Next.js.  
+- Engineered real-time video platform (WebRTC,  “The best code empowers people and scales beyond yourself. Delivering real results—be it EdTech, fintech, or productivity tools—matters.”
 
 ***
 
-### [Mini CRM – AI-powered Campaign Builder](https://github.com/soni0021/MINI_CRM)
-A full-stack platform for managing customers and campaigns with an AI-first workflow.
-- Modular backend with TypeScript/Express, clean REST APIs.
-- Features RBAC, campaign automation, and AI-driven prompt playbooks.
-- Vue/Next.js front-end, CI/CD automation, and comprehensive test suite.
+## 📫 Get in Touch
+
+- 📧 [bt22cse027@iiitn.ac.in](mailto:bt22cse027@iiitn.ac.in)  
+- 🐙 [GitHub](https://github.com/soni0021)  
+- 🟩 [LeetCode](https://leetcode.com/u/vhNyqefY3L)  
 
 ***
-
-### [Quick Pay – Secure Transaction Platform](https://github.com/soni0021/Quick-Pay)
-A modern full-stack payment tool to manage transactions with live analytics.
-- Secure, PCI DSS-compliant payments: React frontend, Node/Express backend, MongoDB.
-- User registration, login, transaction history, balance management.
-- Live dashboard and serverless scaling with AWS Lambda.
-
-***
-
-## 🛠️ My Tech Toolbox
-
-```
-Languages: Python, JavaScript, TypeScript, Java, C/C++, SQL
-Backend: Node.js (Express, FastAPI), REST APIs
-Frontend: React.js (Redux), Next.js, Vue.js, Tailwind CSS
-Databases: PostgreSQL, MongoDB
-DevOps: AWS Lambda, S3, Elastic Beanstalk, Docker, GitHub Actions
-AI/ML: TensorFlow, PyTorch, spaCy, Gemini API, OpenAI API, Langchain
-Other: Microservices, Clean Architecture (SOLID), Agile
-```
-
-***
-
-## 📈 Achievements & Involvement
-
-- **LeetCode:** 1568 Rating (Strong DSA & Competitive Programming)
-- Top 3% JEE Main Rank (98 percentile Physics)
-- Hands-on SDE internship experience—shipping code in real-world systems
-- Active open-source contributor, hackathon finalist, and tech mentor
-
-***
-
-## 💬 My Philosophy
-
-> “The best code empowers people and scales beyond yourself. Delivering real results—be it in EdTech, fintech, or productivity tools—matters.”
-
-***
-
-## 📫 Get in Touch 
-
-- 📧 [bt22cse027@iiitn.ac.in](mailto:bt22cse027@iiitn.ac.in)
-- 🐙 [GitHub](https://github.com/soni0021)
-- 🟩 [LeetCode](https://leetcode.com/u/vhNyqefY3L) 
-
-***
-
-**Let’s collaborate to build the next impactful product!**  
-
-_Thanks for stopping by my profile!_
