@@ -64,7 +64,6 @@ Other: Microservices, REST APIs, Agile, OOP
 ***
 
 
-***
 
 ## 📣 Transforming EdTech — My Philosophy
 
