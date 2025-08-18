@@ -1,96 +1,83 @@
 # Hi, I'm Manish Kumar Soni 👋
 
-**Full-stack Software Engineer | Cloud & EdTech Innovator**
-
-_Based in Noida_
-
-***
-
-## 🚀 Transforming EdTech with mentorbox.ai & abhyas.mentorbox.ai
-
-### About MentorBox.ai  
-MentorBox.ai is revolutionizing medical entrance exam preparation and counseling through AI-driven tools and personalized mentorship. Our mission: empower every NEET aspirant with clarity, confidence, and direction—with advanced features like rank/college predictors and expert mentorship.[1][2]
-
-> “I've led development and AI integration to make MentorBox.ai a mission-driven EdTech ecosystem—not just a platform. We're simplifying and personalizing the NEET journey for thousands, bringing truly transformative, outcome-driven guidance to every student.”
-
-### Real Work Showcase
-- **Backend Lead @ MentorBox.ai (mentorbox.ai & abhyas.mentorbox.ai)**
-  - Designed and deployed scalable backend systems (TypeScript, Next.js, FastAPI).
-  - Integrated 3rd-party APIs (Calendars, OTPless Auth, Dayschedule) for advanced scheduling and authentication.
-  - Developed college and rank predictors powering thousands of student journeys—reduced API response times by 40%.
-  - Built features for automated study plans, guided career decisions, and AI-driven counseling.
-  - **Transformed EdTech**: Delivered robust, cloud-native infrastructure (AWS Lambda, S3, Elastic Beanstalk) for high-quality, accessible learning.
+**Full-stack Software Engineer | SDE Intern | Cloud & AI Enthusiast**  
+*Based in Noida, India*
 
 ***
 
-## 🧑💻 Projects Making an Impact
+## 👨💻 About Me
 
-- **Career AI Platform**
-  - Automated job search and application workflow
-  - SpaCy keyword extraction & GPT semantic matching
-  - Reduced manual job-hunt effort by over 50%
-
-- **QuickPay Payment Platform**
-  - Secure, PCI DSS-compliant payment systems for EdTech integrations
-  - Live analytics dashboard & AWS serverless scaling
-
-- **JEEscape AI Study Platform**
-  - Personalised study planner powered by Gemini API
-  - Boosted engagement by 40%, enhanced mobile UX by 35%
+I'm a passionate software engineer with real-world SDE internship experience and a proven track record in building, optimizing, and scaling production-grade web applications. I love solving challenging problems, automating workflows, and leveraging the latest in cloud and AI to deliver impact.
 
 ***
 
-## 🛠️ Technical Skills
+## 🚀 Featured Projects
+
+### [MentorBox.ai (Live)](https://mentorbox.ai)
+*Backend Lead Intern, Cognitionis MedED Pvt Ltd*
+
+Revolutionizing medical entrance prep & career counseling for thousands of students.  
+- Led backend development on NEET/JEE counseling, AI-powered college/rank predictors, and user-centric features.
+- Designed cloud-native, scalable architecture using TypeScript, Next.js, FastAPI, AWS.
+- Integrated robust scheduling and authentication via industry-standard third-party APIs.
+- Reduced API response times by 40% and helped drive AI-powered decision-making in Indian EdTech.
+
+***
+
+### [Mini CRM – AI-powered Campaign Builder](https://github.com/soni0021/MINI_CRM)
+A full-stack platform for managing customers and campaigns with an AI-first workflow.
+- Modular backend with TypeScript/Express, clean REST APIs.
+- Features RBAC, campaign automation, and AI-driven prompt playbooks.
+- Vue/Next.js front-end, CI/CD automation, and comprehensive test suite.
+
+***
+
+### [Quick Pay – Secure Transaction Platform](https://github.com/soni0021/Quick-Pay)
+A modern full-stack payment tool to manage transactions with live analytics.
+- Secure, PCI DSS-compliant payments: React frontend, Node/Express backend, MongoDB.
+- User registration, login, transaction history, balance management.
+- Live dashboard and serverless scaling with AWS Lambda.
+
+***
+
+## 🛠️ My Tech Toolbox
 
 ```
-Languages: Python, JavaScript, TypeScript, C/C++, SQL
-Frameworks: React.js (Redux), Node.js (Express.js), Next.js, FastAPI
-Cloud/DevOps: AWS Lambda, S3, Elastic Beanstalk, Docker, GitHub Actions
-AI/ML: TensorFlow, PyTorch, spaCy, OpenAI API, Gemini API, Langchain
+Languages: Python, JavaScript, TypeScript, Java, C/C++, SQL
+Backend: Node.js (Express, FastAPI), REST APIs
+Frontend: React.js (Redux), Next.js, Vue.js, Tailwind CSS
 Databases: PostgreSQL, MongoDB
-Other: Microservices, REST APIs, Agile, OOP
+DevOps: AWS Lambda, S3, Elastic Beanstalk, Docker, GitHub Actions
+AI/ML: TensorFlow, PyTorch, spaCy, Gemini API, OpenAI API, Langchain
+Other: Microservices, Clean Architecture (SOLID), Agile
 ```
 
 ***
 
-## 🌟 Achievements & Community
+## 📈 Achievements & Involvement
 
-- **LeetCode:** 1568 rating (strong DSA practice)
-- **Top 3%** JEE Main rank (98 percentile Physics)
-- Lead developer and mentor for EdTech projects serving thousands of students.
-- Active open-source contributor and hackathon participant.
-- Managed and mentored teams, delivered workshops, and built career-impacting tools.
-
-***
-
-
-
-## 📣 Transforming EdTech — My Philosophy
-
-> **"Real impact in education starts with personalized mentorship and innovative tech."**
-
-- Daily user of GenAI tools (Copilot, ChatGPT, Cursor, WinSurf) for development & mentoring.
-- Building platforms for real learning outcomes and scalable digital guidance.
+- **LeetCode:** 1568 Rating (Strong DSA & Competitive Programming)
+- Top 3% JEE Main Rank (98 percentile Physics)
+- Hands-on SDE internship experience—shipping code in real-world systems
+- Active open-source contributor, hackathon finalist, and tech mentor
 
 ***
 
-## 📫 Connect
+## 💬 My Philosophy
 
-- 📞 +91-9672853807
-- ✉️ bt22cse027@iiitn.ac.in
+> “The best code empowers people and scales beyond yourself. Delivering real results—be it in EdTech, fintech, or productivity tools—matters.”
+
+***
+
+## 📫 Get in Touch 
+
+- 📧 [bt22cse027@iiitn.ac.in](mailto:bt22cse027@iiitn.ac.in)
 - 🐙 [GitHub](https://github.com/soni0021)
 - 🟩 [LeetCode](https://leetcode.com/u/vhNyqefY3L)
+- 📱 +91-9672853807
 
 ***
 
-**Let’s build the future of EdTech together!**
+**Let’s collaborate to build the next impactful product!**  
 
-***
-
-### Profile Tips
-
-- Pin your MentorBox.ai & Abhyas.MentorBox.ai project repositories.
-- Add live project links, demo screenshots, and testimonials/impacts when possible.
-- Regularly update stats, achievements, and showcase ongoing EdTech transformation.
-
-***
+_Thanks for stopping by my profile!_
