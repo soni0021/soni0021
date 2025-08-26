@@ -1,4 +1,4 @@
-# Hi, I'm Manish Kumar Soni 👋
+# Hi, I'm Manish 👋
 
 **Full-stack Software Engineer | SDE Intern | Cloud & AI Enthusiast**  
 *Based in Noida, India*
