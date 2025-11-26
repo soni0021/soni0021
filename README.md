@@ -1,4 +1,4 @@
-# Hi, I'm Manish 👋
+# Hi, 👋
 
 **Full-stack Software Engineer | SDE Intern | Cloud & AI Enthusiast**  
 *Based in Noida, India*
@@ -39,7 +39,7 @@ Multi-user real-time video calling app with quizzes, built using WebRTC, Socket.
 
 ## 📫 Get in Touch
 
-- 📧 [bt22cse027@iiitn.ac.in](mailto:bt22cse027@iiitn.ac.in)  
+ 
 - 🐙 [GitHub](https://github.com/soni0021)  
 - 🟩 [LeetCode](https://leetcode.com/u/vhNyqefY3L)  
 
