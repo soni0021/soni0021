@@ -1,7 +1,7 @@
 # Hi, 👋
 
 **Full-stack Software Engineer | SDE Intern | Cloud & AI Enthusiast**  
-*Based in Noida, India*
+*Based in Bengaluru, India*
 
 ***
 
