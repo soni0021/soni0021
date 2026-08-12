@@ -30,6 +30,7 @@ I'm especially interested in building systems that are:
 * LLM-powered production workflows
 * RAG pipelines
 * Multimodal AI systems
+* Agentic AI workflows
 * Evaluation and validation pipelines
 * Vector databases: Qdrant, Pinecone, pgvector
 * LangGraph
@@ -54,7 +55,7 @@ I'm especially interested in building systems that are:
 
 ## 🚀 Currently
 
-**Software Engineer — Mentorbox.ai**
+**Software Engineer — [Mentorbox.ai](https://mentorbox.ai)**
 
 Building backend and AI infrastructure for a production **AI-powered learning and medical education platform**.
 
@@ -68,14 +69,13 @@ Recent work includes:
 * Working across **architecture, implementation, deployment, debugging, and production optimization**
 * Building systems designed to support **AI-powered learning experiences at scale**
 
-
 ---
 
 ## 🏗️ Selected Projects
 
-### Micro Marketplace
+### [Micro Marketplace](https://github.com/soni0021/ecommerce-microservices-master)
 
-**Java · Spring Boot · Kafka · PostgreSQL · Keycloak · Docker**
+**Java · Spring Boot · Spring Cloud · Kafka · Keycloak · Docker**
 
 Distributed e-commerce platform with independently deployable services for products, orders, inventory, and notifications.
 
@@ -86,8 +86,9 @@ Highlights:
 * OAuth2 authentication with Keycloak
 * Resilience4j fault tolerance
 * Prometheus + Grafana + Zipkin observability
+* Dockerized end-to-end deployment
 
-### Two-Way Integration System
+### [Two-Way Integration System](https://github.com/soni0021/Two_way_integartion_system)
 
 **Python · FastAPI · PostgreSQL · Kafka · Stripe**
 
@@ -99,6 +100,7 @@ Highlights:
 * Extensible provider architecture
 * ID mapping and synchronization state
 * Operational logging and debugging endpoints
+* Reliable asynchronous event propagation
 
 ### Quick Pay
 
@@ -123,7 +125,7 @@ I enjoy environments where the stack is not the constraint and the engineer is e
 ## 📫 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/soni0021)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/manish-s-a44949250/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/vhNyqefY3L/)
 
 ---
