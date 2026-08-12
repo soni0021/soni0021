@@ -54,7 +54,7 @@ I'm especially interested in building systems that are:
 
 ## 🚀 Currently
 
-**Software Engineering Intern — Mentorbox.ai**
+**Software Engineer — Mentorbox.ai**
 
 Building backend and AI infrastructure for a production **AI-powered learning and medical education platform**.
 
