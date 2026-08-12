@@ -56,15 +56,18 @@ I'm especially interested in building systems that are:
 
 **Software Engineering Intern — Mentorbox.ai**
 
-Building backend and AI infrastructure for production educational systems.
+Building backend and AI infrastructure for a production **AI-powered learning and medical education platform**.
 
 Recent work includes:
 
-* Building document-intelligence pipelines that convert complex NEET/JEE PDFs into structured data
-* Designing FastAPI + PostgreSQL + Redis services
-* Building asynchronous workflows with SSE-based job progress
-* Creating benchmark-driven validation for AI-generated content
-* Working across architecture, implementation, deployment, and production debugging
+* Building document-intelligence pipelines that convert complex NEET/JEE PDFs into structured, machine-readable content
+* Designing **FastAPI + PostgreSQL + Redis** backend services
+* Building asynchronous workflows with **SSE-based job progress and human-in-the-loop validation**
+* Creating benchmark-driven evaluation pipelines for AI-generated educational content
+* Building **agentic AI workflows** that power personalized learning, content generation, and student-facing AI experiences
+* Working across **architecture, implementation, deployment, debugging, and production optimization**
+* Building systems designed to support **AI-powered learning experiences at scale**
+
 
 ---
 
