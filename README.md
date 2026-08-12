@@ -1,46 +1,128 @@
-# Hi, 👋
+# Hi, I'm Manish Soni 👋
 
-**Full-stack Software Engineer | SDE Intern | Cloud & AI Enthusiast**  
-*Based in Bengaluru, India*
+### Full-Stack Software Engineer · Backend · AI Infrastructure · Distributed Systems
 
-***
+I build and ship production systems across **backend, frontend, cloud, and AI**.
 
-## 👨💻 About Me
+Currently working on production AI/EdTech systems, with hands-on experience in **FastAPI, PostgreSQL, Kafka, Redis, Docker, AWS, TypeScript, and Next.js**.
 
-I'm a passionate software engineer with hands-on SDE internship experience and a proven track record in building, optimizing, and scaling production-grade web applications. I love solving challenging problems, automating workflows, and leveraging modern cloud and AI to deliver impact.
+I'm especially interested in building systems that are:
 
-***
+* reliable under real workloads
+* observable and debuggable
+* asynchronous and event-driven
+* useful to actual users
 
-## 🚀 Featured Projects
+---
 
-### [MentorBox.ai (Live)](https://mentorbox.ai)  
-*Backend Lead Intern, Cognitionis MedED Pvt Ltd*  
-Revolutionizing medical entrance prep & career counseling for thousands of students.  
-- Led backend development: NEET/JEE counseling, AI-powered college/rank predictors, scalable microservices.
-- Cloud-native architecture: TypeScript, Next.js, FastAPI, AWS Lambda, S3, Elastic Beanstalk.
-- Robust scheduling and authentication with 3rd-party API integrations.
-- Achieved 40% faster API response times and empowered data-driven decisions.
+## 🧑‍💻 What I Build
 
-### [Mini CRM – AI-Powered Campaign Builder](https://github.com/soni0021/MINI_CRM)  
-Full-stack CRM tool for managing customers & campaigns, enhanced with AI.  
-- Modular backend (TypeScript/Express), RBAC, campaign automation, prompt playbooks.
-- Vue/Next.js frontend, CI/CD automation, comprehensive tests.
+### Backend & Distributed Systems
 
-### [Quick Pay – Secure Transaction Platform](https://github.com/soni0021/Quick-Pay)  
-A modern full-stack platform for secure payments and live analytics.  
-- React frontend, Node/Express backend, MongoDB.
-- User registration, transaction history, serverless AWS Lambda scaling.
+* FastAPI, Spring Boot, Django, Node.js
+* PostgreSQL, Redis, MongoDB
+* Kafka, WebSockets, SSE
+* REST APIs, background workers, event-driven services
+* Authentication, RBAC, service integrations
 
-### [Peer-to-Peer Quiz & Video Communication](https://github.com/soni0021/p2p_quiz)  
-Multi-user real-time video calling app with quizzes, built using WebRTC, Socket.io, and Next.js.  
-- Engineered real-time video platform (WebRTC,  “The best code empowers people and scales beyond yourself. Delivering real results—be it EdTech, fintech, or productivity tools—matters.”
+### AI & Developer Infrastructure
 
-***
+* LLM-powered production workflows
+* RAG pipelines
+* Multimodal AI systems
+* Evaluation and validation pipelines
+* Vector databases: Qdrant, Pinecone, pgvector
+* LangGraph
 
-## 📫 Get in Touch
+### Cloud & DevOps
 
- 
-- 🐙 [GitHub](https://github.com/soni0021)  
-- 🟩 [LeetCode](https://leetcode.com/u/vhNyqefY3L)  
+* Docker
+* AWS: EC2, S3, IAM
+* Jenkins, GitHub Actions
+* Linux, NGINX
+* Prometheus, Grafana
+* CI/CD and production debugging
 
-***
+### Frontend
+
+* TypeScript / JavaScript
+* Next.js
+* React
+* Building complete product surfaces from API to UI
+
+---
+
+## 🚀 Currently
+
+**Software Engineering Intern — Mentorbox.ai**
+
+Building backend and AI infrastructure for production educational systems.
+
+Recent work includes:
+
+* Building document-intelligence pipelines that convert complex NEET/JEE PDFs into structured data
+* Designing FastAPI + PostgreSQL + Redis services
+* Building asynchronous workflows with SSE-based job progress
+* Creating benchmark-driven validation for AI-generated content
+* Working across architecture, implementation, deployment, and production debugging
+
+---
+
+## 🏗️ Selected Projects
+
+### Micro Marketplace
+
+**Java · Spring Boot · Kafka · PostgreSQL · Keycloak · Docker**
+
+Distributed e-commerce platform with independently deployable services for products, orders, inventory, and notifications.
+
+Highlights:
+
+* Spring Cloud microservices
+* Kafka-based asynchronous workflows
+* OAuth2 authentication with Keycloak
+* Resilience4j fault tolerance
+* Prometheus + Grafana + Zipkin observability
+
+### Two-Way Integration System
+
+**Python · FastAPI · PostgreSQL · Kafka · Stripe**
+
+Production-style synchronization system connecting PostgreSQL with Stripe through asynchronous event processing.
+
+Highlights:
+
+* Kafka background workers
+* Extensible provider architecture
+* ID mapping and synchronization state
+* Operational logging and debugging endpoints
+
+### Quick Pay
+
+**React · Node.js · Express · MongoDB · AWS**
+
+Full-stack transaction platform with authentication, transaction history, and backend services designed for scalable deployment.
+
+---
+
+## 🔭 What I'm Looking For
+
+I'm interested in **early-stage engineering roles** where I can own a product surface end-to-end.
+
+That means going from:
+
+`idea → architecture → backend → frontend → infrastructure → deployment → production`
+
+I enjoy environments where the stack is not the constraint and the engineer is expected to solve the actual problem.
+
+---
+
+## 📫 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/soni0021)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/vhNyqefY3L/)
+
+---
+
+> I like building systems that are useful, observable, and resilient — and I'm happiest when I can own the entire path from idea to production.
