@@ -102,11 +102,6 @@ Highlights:
 * Operational logging and debugging endpoints
 * Reliable asynchronous event propagation
 
-### Quick Pay
-
-**React · Node.js · Express · MongoDB · AWS**
-
-Full-stack transaction platform with authentication, transaction history, and backend services designed for scalable deployment.
 
 ---
 
@@ -130,4 +125,4 @@ I enjoy environments where the stack is not the constraint and the engineer is e
 
 ---
 
-> I like building systems that are useful, observable, and resilient — and I'm happiest when I can own the entire path from idea to production.
+> I like building systems that are useful, observable, and resilient and I'm happiest when I can own the entire path from idea to production.
